@@ -1,8 +1,8 @@
 {
   "name": "react-native-drawer-layout",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "A platform-agnostic drawer layout. Pure JavaScript implementation on iOS and native implementation on Android. Why? Because the drawer layout is a useful component regardless of the platform! And if you can use it without changing any code, that's perfect.",
-  "main": "dist/DrawerLayout.js",
+  "main": "src/DrawerLayout.js",
   "scripts": {
     "babel": "babel src --out-dir dist",
     "build": "npm run-script clear && npm run-script babel",
